@@ -126,8 +126,8 @@ LoginAPI/
 
 - Este projeto é experimental e voltado para fins educacionais.  
   This project is experimental and for educational purposes only.
-- Você pode acessar o Swagger em `https://localhost:5001/swagger` após rodar o projeto.  
-  You can access Swagger at `https://localhost:5001/swagger` after running the project.
+- Você pode acessar o Swagger em `https://localhost:7168/swagger` após rodar o projeto.  
+  You can access Swagger at `https://localhost:7168/swagger` after running the project.
 
 ---
 
@@ -153,4 +153,4 @@ Pull requests are welcome! For major changes, please open an issue first to disc
 ## 🧑‍💻 Autor | Author
 
 **Joab Bitencourt**  
-GitHub: [@seu-usuario](https://github.com/seu-usuario)
+GitHub: [@JoabBitencourt](https://github.com/joabbitencourt)
